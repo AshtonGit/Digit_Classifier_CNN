@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'dart:ui';
-import 'package:cnndigitrecog/Classifier/classifier.dart';
+import 'package:Digit_Classifier_CNN/Classifier/classifier.dart';
 import 'package:flutter/material.dart';
 
 import 'drawingpoint.dart';
